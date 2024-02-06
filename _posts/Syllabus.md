@@ -1,3 +1,10 @@
+---
+Title: Excel Syllabu
+tags: [posts,update]
+premalink: /:posts/:Excel Syllabus/
+---
+
+
 # Syllabus for MS Excel
 
 ### Module 1 : Intorduction to MS Excel
