@@ -1,7 +1,7 @@
 ---
-Title: Excel Syllabu
+Title: ExcelSyllabus
 tags: [posts,update]
-premalink: /:posts/:Excel Syllabus/
+premalink: /:posts/:ExcelSyllabus/
 ---
 
 
