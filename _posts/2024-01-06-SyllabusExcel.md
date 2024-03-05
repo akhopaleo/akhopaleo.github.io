@@ -1,11 +1,11 @@
 ---
-Title: ExcelSyllabus
+title: Excel Syllabus
 tags: [posts,update]
+categories: [Learning]
 premalink: /:posts/:ExcelSyllabus/
 ---
 
 
-# Syllabus for MS Excel
 
 ### Module 1 : Intorduction to MS Excel
 - Introduction to Excel interface
