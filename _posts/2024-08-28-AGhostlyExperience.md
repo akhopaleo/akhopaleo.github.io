@@ -1,12 +1,12 @@
 ---
-title: A Ghostly Experience
+title: A Ghostly Encounter
 tags: [posts]
 categories: [Personal]
 image: 
     path: /assets/img/title_images/baldAssKid.png
     lqip: /assets/img/title_images/baldAssKid.png
     alt: Boo!
-premalink: /:posts/:A Ghostly Experience/
+premalink: /:posts/:A Ghostly Encounter/
 ---
 It was late summer in 2011, I was in eighth grade. At that time we were living in an apartment. We were on the second floor and on the third floor was a young couple with their three children, all of them were really young, the oldest was in upper kindergarten. All the rooms on our floor was occupied by us, except for a room in which the landlord kept their belongings. It was a large room, with old almirahs and an assortment of items strewn about haphazardly, it gave off an eerie feeling when it was dark. My brother and I used to jokingly scare each other saying that the room was haunted. 
 
