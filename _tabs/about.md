@@ -12,26 +12,3 @@ I am Alfred Leo. <br>
 
 
 
-<div id="me">
-  Check Me Out <br>
-  ↓ <br>
-  <a href="https://www.instagram.com/alfredakhopaleo/" target="_blank">
-    <img src="../assets/img/instagram.png" alt="Instagram" width="30" height="auto">
-  </a>
-</div>
-
-<style>
-  #me {
-    text-align: center;  /* Centers content inside the div */
-    width: 200px;        /* Example width, adjust as needed */
-  }
-
-  /* Left justify the div */
-  body {
-    display: flex;
-    justify-content: flex-start; /* Makes sure the div is left-justified */
-    margin-left: 0;
-  }
-</style>
-
-
