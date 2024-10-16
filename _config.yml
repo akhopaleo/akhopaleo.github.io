@@ -26,16 +26,16 @@ description: >- # used by seo meta and the atom feed
 url: "https://akhopaleo.github.io"
 
 github:
-  username: akhopaleo # change to your github username
+  username: # change to your github username
 
 twitter:
-  username: arfuledo # change to your twitter username
+  username: # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Alfred Akhopa Leo
-  email: akhopaleo@gmail.com # change to your email address
+  email: akhopaleo+web@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
