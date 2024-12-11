@@ -1,19 +1,23 @@
 ---
-title: A History of India
+title: A History of India by Romila Thapar
 tags: [posts,history,India]
 categories: [Learning]
 premalink: /:posts/:AHistoryofIndia/
 ---
-# A History of India
+> In progress
+{: .prompt-danger}
+> First part is in my own words as I understood it, the second part delves into more detailed and elaborate summary.
+{: .prompt-info }
 
-1. The Antecedents
+## My Summary
+1. The Antecedents:<br>
 	This chapter introduces how the outsiders view India, their prejudices and how it affected the history books written about India by the early Europeans. There is not much of the actual history about India but the different materials, views, and hypothesis about how certain stories, myth or history of India came to be as it is known.
-2. The Impact of Aryan Culture
+2. The Impact of Aryan Culture:<br>
 	In this chapter there not only consists of the Aryan arrival and subsequently their influence on native tribals living in India, mainly in the northern India, but also touches some Hindu mythology and philosophy. The evolution of the caste system is the main theme in this chapter. The Aryans coming from the western Asia (Asia Minor), were more developed—tough not better than the earlier civilization of Harappa and Mohenjo-Daro—they viewed the native tribals as inferior and alien, setting a precedent to the caste system.
 
 
 
-# Chapter Recap
+## Detailed Summary
 ### 1. The Antecedents
 The chapter provides a comprehensive examination of the evolution of Indian culture, focusing on the interplay of various institutions, events, and historical interpretations. It aims to present a nuanced understanding of Indian history without making categorical value judgments.
 
@@ -112,5 +116,5 @@ This chapter discusses the arrival of the Aryans in India, their cultural impact
         
     - The Vedic texts laid the foundation for spiritual and philosophical thought in India.
 The chapter illustrates the complex interplay between Aryan and pre-Aryan cultures, highlighting significant dates and events that shaped Indian history. The transition from nomadic lifestyles to settled agriculture, the establishment of the caste system, and the development of political and religious structures were pivotal in forming the society we recognize today.
---------------------------------------------------------------------------
-# Summary
+
+``` To Be Continued... ```
