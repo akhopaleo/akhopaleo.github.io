@@ -13,7 +13,7 @@ premalink: /:posts/:AHistoryofIndia/
 1. The Antecedents:<br>
 	This chapter introduces how the outsiders view India, their prejudices and how it affected the history books written about India by the early Europeans. There is not much of the actual history about India but the different materials, views, and hypothesis about how certain stories, myth or history of India came to be as it is known.
 2. The Impact of Aryan Culture:<br>
-	In this chapter there not only consists of the Aryan arrival and subsequently their influence on native tribals living in India, mainly in the northern India, but also touches some Hindu mythology and philosophy. The evolution of the caste system is the main theme in this chapter. The Aryans coming from the western Asia (Asia Minor), were more developed—tough not better than the earlier civilization of Harappa and Mohenjo-Daro—they viewed the native tribals as inferior and alien, setting a precedent to the caste system.
+	In this chapter there not only consists of the Aryan arrival and subsequently their influence on native tribals living in India, mainly in the northern India, but also touches some Hindu mythology and philosophy. The evolution of the caste system is the main theme in this chapter. The Aryans coming from the western Asia (Asia Minor), were more developed—though not better than the earlier civilization of Harappa and Mohenjo-Daro—they viewed the native tribals as inferior and alien, setting a precedent to the caste system.
 
 
 
