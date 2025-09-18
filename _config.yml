@@ -196,3 +196,17 @@ jekyll-archives:
 plugins:
   - jekyll-sitemap
 
+
+head_scripts:
+  - '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">'
+  
+footer_scripts:
+  - '<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>'
+  - |
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        const lightbox = GLightbox({
+          selector: '.glightbox'
+        });
+      });
+    </script>
