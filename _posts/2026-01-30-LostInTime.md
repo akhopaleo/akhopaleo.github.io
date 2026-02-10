@@ -27,7 +27,7 @@ Then I saw it.
 
 An unusual shadow on the ceiling. Unusual because there was no hard light in the room that could have been the reason for it to be the shadow of the fan. Or was it a shadow projected from outside the window? I know I am superstitious, but not without exercising my faculty of reason first. Only after my reasoning fails do I become superstitious.
 
-What seemed to be the shadow was moving. It was occupying space, but somehow seemed to be a massless black cloud floating around. While I lay there looking at it, my brain tried to reason what it could be. As I did, I sensed that it sensed I had noticed its presence. Whatever it was, it didn’t like that I was looking at it. I could feel the malevolence, malice, and a sneer of superiority directed at me.
+What seemed to be the shadow was moving. It was occupying space, but somehow seemed to be a massless black cloud floating around. While I lay there looking at it, my brain tried to reason what it could be. As I did, I sensed that it sensed I had noticed its presence. Whatever it was, it didn’t like that I was looking at it. I could feel the malevolence, malice, and a sneer of superiority directed at me. I felt as if it was saying, “I can take your soul. You have no power.” And it was right—I could do nothing.
 
 As time passed, the black cloud gradually turned into a little girl with no face except red eyes and a body covered in a black, web-like cloak. I closed my eyes to avoid the evil gaze, hoping that somehow, if I didn’t see it, it would disappear. I opened my eyes after a while to check. It was not there anymore—it was right at the foot of my bed.
 
