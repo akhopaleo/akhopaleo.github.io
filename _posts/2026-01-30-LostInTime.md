@@ -1,5 +1,6 @@
 ---
 title: "Lost in Time: The Aftertaste of Sleep Paralysis"
+published: false
 tags: [posts]
 categories: [Reading,Personal,Story Telling]
 image: 
