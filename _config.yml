@@ -50,7 +50,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: "G-XMTG775NT0"
+  id: G-XMTG775NT0
 
 # Prefer color scheme setting.
 #
@@ -104,7 +104,7 @@ assets:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development|production]
+    env: production
 
 pwa:
   enabled: true # the option for PWA feature
