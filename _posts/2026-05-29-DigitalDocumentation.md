@@ -225,6 +225,7 @@ Relief	Adjusts light source to create shadow.<br>
 8. **Rotate:** Image can be rotated by any angle using this tool.
 9. **Transparency:** Modify the percentage value in the Transparency box on the Picture toolbar to make the image more transparent.
 10. **Color:** This tool modifies the individual RGB colour values of the image as well as the brightness, contrast, and gamma of the image.
+
 ### Cropping Image
 When you are only interested in a section of the image for the purpose of your document, you may wish to crop parts of it.<br>
 
