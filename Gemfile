@@ -25,10 +25,13 @@
 
 # frozen_string_literal: true
 
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
-# Core dependencies for the Chirpy Theme
-gem "jekyll", "~> 4.4"
+# Force the exact stable versions that prevent the May update crash
+gem "jekyll", "4.3.4"
+gem "jekyll-sass-converter", "3.0.0"
 gem "jekyll-theme-chirpy", "~> 7.5"
 
 group :test do
@@ -41,5 +44,4 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-# JRuby network tracking fallback support
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
