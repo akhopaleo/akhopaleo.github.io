@@ -2,7 +2,7 @@
 title: "UNIT 1: DIGITAL DOCUMENTATION"
 tags: [class, IT, CBSE, Learning]
 categories: [Class X 402]
-comment: False
+comment: True
 permalink: /class/DigitalDocumentation/
 ---
 
